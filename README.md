@@ -16,5 +16,16 @@ Project by Ashley Banks
 
 3. Create and launch a virtual environment.
 
-4. Run to ensure you have all required packages.
+
+4. Run "pip install -r requirements.txt" to have pip install the requirements.txt file from within that directory. You may execute the program with confidence knowing that you have the required packages. 
+
+5. After the repo has been copied, utilize File Explorer to find the directory folder where the repo is located.
+
+6. The command prompt will open in that directory once you have navigated to the folder and type "cmd" in the file path line.
+
+7. Run "vs code" on the command line to launch a browser window.
+
+8. Open "JCPSAttendance" in the browser window and click on it to launch the application.
+
+9. After opening the file, select "Run All."
 
