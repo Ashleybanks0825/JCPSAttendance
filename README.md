@@ -29,3 +29,12 @@ Project by Ashley Banks
 
 9. After opening the file, select "Run All."
 
+## Requirements
+----
+1. Inputted data: The project consisted of two csv files, which were read using the pandas function of the pandas Python library.
+
+2. Data manipulation and cleaning: Used in built-in pandas and numpy methods to get rid of data elements like NAN values.
+
+3. Analyze the data by using functions to build new DataFrames, merge DataFrames, and sort additional columns and rows.
+
+4. Data visualization With Matplotlib, create basic, straightforward plots.
